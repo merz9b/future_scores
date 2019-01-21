@@ -1,0 +1,5 @@
+SMTP: smtp.163.com
+port: 465
+account: test@test.com
+password: test
+receiver: test@test.com
